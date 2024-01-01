@@ -1,4 +1,4 @@
-//The code calculates the area and perimeter of a rectangle with a given length 
+//This code calculates the area and perimeter of a rectangle with a given length 
 //and width; calculates the area of a traingle; calculates the area and circumference of a circle 
 //with a specified raidus; and calculate the volume and surface area of a cylinder.
 
