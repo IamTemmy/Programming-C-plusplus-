@@ -1,13 +1,9 @@
-//CHAPTER 4 PROGRAMMING EXERCISE 22
 //In this program, we find the prime numbers between 1 - 1000 (inclusive)
 
 #include <iostream>
 #include <cmath>
 
 using namespace std;
-
-// NAME: TEMILOLUWA ADESOLA
-// JNUMBER: J00931199
 
 int main()
 {
