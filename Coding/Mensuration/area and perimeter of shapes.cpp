@@ -1,6 +1,5 @@
-//CHAPTER 4 PROGRAMMING EXERCISE 4
-//In this program, we are writing a code to calculate the area and perimeter of a rectangle with a given length 
-//and width; calculate the area of a traingle; calculate the area and circumference of a circle 
+//The code calculates the area and perimeter of a rectangle with a given length 
+//and width; calculates the area of a traingle; calculates the area and circumference of a circle 
 //with a specified raidus; and calculate the volume and surface area of a cylinder.
 
 #include <iostream>
@@ -8,9 +7,6 @@
 #include <cmath>
 
 using namespace std;
-a
-// NAME: TEMILOLUWA ADESOLA
-// JNUMBER: J00931199
 
 int main()
 {
