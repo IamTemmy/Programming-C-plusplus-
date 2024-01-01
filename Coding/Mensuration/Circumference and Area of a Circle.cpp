@@ -3,8 +3,6 @@
 #include <iostream>
 
 using namespace std;
-// NAME: TEMILOLUWA ADESOLA
-// JNUMBER: J00931199
 
 int main ()
 
