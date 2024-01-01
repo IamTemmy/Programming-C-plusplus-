@@ -39,9 +39,9 @@ int main()
     
     if (shape == "rectangle")
     {
-        cout << "Enter the width of the rectangle ";
+        cout << "Enter the width of the rectangle: ";
         cin >> width;
-        cout << "Enter the length of the rectangle ";
+        cout << "Enter the length of the rectangle: ";
         cin >> length;
         cout << endl;
         
