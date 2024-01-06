@@ -1,4 +1,4 @@
-//Hourly payment calculator
+//Hourly Payment Calculator
 #include <iostream>
 using namespace std;
 int main ()
