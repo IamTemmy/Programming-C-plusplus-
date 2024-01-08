@@ -1,4 +1,4 @@
-//Page 340 Programming Exercise: Question 2
+//Page 340 Programming Exercise: Question 2.
 //In this program we are approximating the value of Pi
 //according to the question, we are going to debug and rearrange the program
 
